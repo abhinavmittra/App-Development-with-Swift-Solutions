@@ -17,5 +17,5 @@ let favoriteQuote = "My favorite quote is: " + "Buy cheap, buy twice"
  */
 let emptyString = ""
 
-emptyString.isEmpty ? print("There's nothing here") : print("It's not as empty as I thought")
+emptyString.isEmpty ? print("There's nothing here") : print("It's not as empty as I though")
 //: page 1 of 5  |  [Next: Exercise - Concatenation and Interpolation](@next)
